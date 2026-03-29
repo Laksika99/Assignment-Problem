@@ -86,22 +86,22 @@ while True:
 
     choice = input("Select menu: ")
 
-    if choice == "1":
+    if choice == "233":
         add_room()
 
-    elif choice == "2":
+    elif choice == "234":
         show_rooms()
 
-    elif choice == "3":
+    elif choice == "235":
         search_room()
 
-    elif choice == "4":
+    elif choice == "236":
         book_room()
 
-    elif choice == "5":
+    elif choice == "237":
         cancel_booking()
 
-    elif choice == "6":
+    elif choice == "238":
         print("Exit Program")
         break
 
